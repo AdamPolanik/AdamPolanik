@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">I am currently studying computer science at DSV.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.tribemagazine.com/board/proxy.php?image=http%3A%2F%2F25.media.tumblr.com%2Fbc0b09d870fb1cabca14afdb12e0e191%2Ftumblr_mt5j8u1jsf1qcnyvgo1_500.gif&hash=7b1ac8533e0faa5502d45f36d8473c45">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AdamPolanik/AdamPolanik/main/Space%20Explorer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
