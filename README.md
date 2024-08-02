@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I am currently studying computer science at DSV.</h3>
+<h1 align="center">Hi, I'm Adam</h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AdamPolanik/AdamPolanik/main/Space%20Explorer.gif">
 
 <h3 align="left">Connect with me:</h3>
